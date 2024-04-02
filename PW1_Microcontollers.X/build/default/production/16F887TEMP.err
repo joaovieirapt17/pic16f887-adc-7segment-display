@@ -1,0 +1,14 @@
+Warning[205] C:\USERS\JOAO\DESKTOP\TP1_MICROCONTROLADORES.X\16F887TEMP.ASM 25 : Found directive in column 1. (ORG)
+Warning[205] C:\USERS\JOAO\DESKTOP\TP1_MICROCONTROLADORES.X\16F887TEMP.ASM 30 : Found directive in column 1. (ORG)
+Warning[207] C:\USERS\JOAO\DESKTOP\TP1_MICROCONTROLADORES.X\16F887TEMP.ASM 40 : Found label after column 1. (ISR_INT_EXTERNAL)
+Warning[207] C:\USERS\JOAO\DESKTOP\TP1_MICROCONTROLADORES.X\16F887TEMP.ASM 49 : Found label after column 1. (ISR_CONVERSION_ADC)
+Warning[207] C:\USERS\JOAO\DESKTOP\TP1_MICROCONTROLADORES.X\16F887TEMP.ASM 73 : Found label after column 1. (end_int2)
+Warning[207] C:\USERS\JOAO\DESKTOP\TP1_MICROCONTROLADORES.X\16F887TEMP.ASM 79 : Found label after column 1. (end_int1)
+Warning[207] C:\USERS\JOAO\DESKTOP\TP1_MICROCONTROLADORES.X\16F887TEMP.ASM 80 : Found label after column 1. (RESTORE)
+Message[302] C:\USERS\JOAO\DESKTOP\TP1_MICROCONTROLADORES.X\16F887TEMP.ASM 98 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\JOAO\DESKTOP\TP1_MICROCONTROLADORES.X\16F887TEMP.ASM 99 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\JOAO\DESKTOP\TP1_MICROCONTROLADORES.X\16F887TEMP.ASM 101 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\JOAO\DESKTOP\TP1_MICROCONTROLADORES.X\16F887TEMP.ASM 103 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\JOAO\DESKTOP\TP1_MICROCONTROLADORES.X\16F887TEMP.ASM 109 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\JOAO\DESKTOP\TP1_MICROCONTROLADORES.X\16F887TEMP.ASM 118 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[203] C:\USERS\JOAO\DESKTOP\TP1_MICROCONTROLADORES.X\16F887TEMP.ASM 155 : Found opcode in column 1. (goto)
